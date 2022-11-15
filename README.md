@@ -2,7 +2,7 @@
 - 👀 I’m interested in Beaver Human coexistence 
 - 🌱 I’m currently learning to use Python coding 
 - 💞️ I’m looking to collaborate on helping beavers thrive 
-- 📫 How to reach me DM here 
+- 📫 How to reach me a00430045@usu.edu
 
 <!---
 eNic349/eNic349 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
